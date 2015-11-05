@@ -10,3 +10,5 @@
 * **A Hobby** - Cycling
 ![bikeclipart-small](https://cloud.githubusercontent.com/assets/522430/10975437/f35eefbc-83b4-11e5-8038-f0c61b74f9db.gif)
 
+* **Favorite Color** - Blue
+
