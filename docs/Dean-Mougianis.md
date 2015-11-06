@@ -12,3 +12,4 @@
 
 * **Favorite Color** - Blue
 
+* **Current City** - Pittsburgh, PA
